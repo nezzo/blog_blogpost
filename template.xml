@@ -4,6 +4,9 @@
   <head>
     <meta expr:content='data:blog.isMobile         ? &quot;width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0&quot;         : &quot;width=1100&quot;' name='viewport'/>
     <b:include data='blog' name='all-head-content'/>
+    <meta content='opencart,opencart templates,opencart themes,шаблоны сайтов,бесплатные шаблоны сайтов,opencart cmsm  opencart premium themes,free opencart themes,open source ecommerce,создать сайт,php shopping cart,shopping cart system,      интернет магазин на opencart,как сделать модуль,opencart установка,php shop,сайты на opencart,шаблоны для opencart      товары для интернет магазина,магазин на opencart,opencart themes premium,buy opencart theme,opencart shop' name='keywords'/>
+<meta content='BLOG Artur Legusha' name='author'/>
+
     <title><data:blog.pageTitle/></title>
 
     <b:skin><![CDATA[/*
